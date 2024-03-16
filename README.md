@@ -18,4 +18,7 @@ Terdapat 1 kelas, yaitu Mahasiswa yang mempunyai atribut NIM, Nama, Jenis Kelami
      Tekan tombol `Delete` untuk menghapus. Akan muncul box konfirmasi penghapusan, klik "yes" jika yakin untuk menghapus.
 
 ## Dokumentasi
-https://github.com/aryaayy/LP5DPBO2024C1/Dokumentasi/Dokumentasi_LP5.mp4
+
+
+https://github.com/aryaayy/LP5DPBO2024C1/assets/134766828/bd76e1c2-2622-4c07-9b95-a7622df253bf
+
