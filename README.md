@@ -9,9 +9,9 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 Terdapat 1 kelas, yaitu Mahasiswa yang mempunyai atribut NIM, Nama, Jenis Kelamin, dan 1 atribut tambahan yaitu Kelas (C1 atau C2).
 
 ## Alur Program
-1. Terdapat form kosong yang dapat diisi dengan data mahasiswa baru. Isi form, lalu tekan tombol `Add`.
-2. Ada list yang menampilkan seluruh data mahasiswa.
-3. Data mahasiswa yang sudah ada dapat diubah/dihapus dengan cara mengklik data. Form akan terisi dengan data yang dipilih. Ada 2 hal yang dapat dilakukan, yaitu:
+1. Terdapat form kosong yang dapat diisi dengan data mahasiswa baru pada bagian atas. Di sampingnya, terdapat 2 tombol untuk melakukan action, yaitu `Add` dan `Cancel`. Di bawahnya, ada list yang menampilkan seluruh data mahasiswa.
+2. Untuk menambah data mahasiswa baru, lakukan pengisian form, lalu tekan tombol `Add`.
+3. Data mahasiswa yang sudah ada dapat diubah/dihapus dengan cara mengklik data. Form akan terisi dengan data yang dipilih, tombol `Add` akan berubah menjadi `Update` dan muncul tombol baru, yaitu `Delete`. Ada 2 hal yang dapat dilakukan, yaitu:
    - Update <br/>
      Ubah data mahasiswa yang ada pada form, lalu tekan tombol `Update` untuk menyimpan perubahan.
    - Delete <br/>
