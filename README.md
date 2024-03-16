@@ -12,9 +12,9 @@ Terdapat 1 kelas, yaitu Mahasiswa yang mempunyai atribut NIM, Nama, Jenis Kelami
 1. Terdapat form kosong yang dapat diisi dengan data mahasiswa baru. Isi form, lalu tekan tombol `Add`.
 2. Ada list yang menampilkan seluruh data mahasiswa.
 3. Data mahasiswa yang sudah ada dapat diubah/dihapus dengan cara mengklik data. Form akan terisi dengan data yang dipilih. Ada 2 hal yang dapat dilakukan, yaitu:
-   - Update
+   - Update <br/>
      Ubah data mahasiswa yang ada pada form, lalu tekan tombol `Update` untuk menyimpan perubahan.
-   - Delete
+   - Delete <br/>
      Tekan tombol `Delete` untuk menghapus. Akan muncul box konfirmasi penghapusan, klik "yes" jika yakin untuk menghapus.
 
 ## Dokumentasi
